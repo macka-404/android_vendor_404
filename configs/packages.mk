@@ -35,7 +35,8 @@ PRODUCT_PACKAGES += \
     ThemePicker \
     Updater \
     Aperture \
-    RepainterServicePriv
+    RepainterServicePriv \
+    GameSpace
 
 # SystemUI plugins
 PRODUCT_PACKAGES += \
